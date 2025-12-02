@@ -1,3 +1,6 @@
 {
-  "mathlib": "https://github.com/L12-MC/wslang-mathlib/releases/download/1.0.1/mathlib.zip"
+  "mathlib": {
+    "url": "https://github.com/L12-MC/wslang-mathlib/releases/download/1.0.1/mathlib.zip",
+    "version": "1.0.1"
+  }
 }
